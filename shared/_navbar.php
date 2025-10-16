@@ -5,7 +5,7 @@
         <img src="./images/company-logo.jpg" alt="Logo" />
       </a>
       <a href="./index.php">
-        <h3>SCHOOL MANAGEMENT</h3>
+        <h3>SCHOOL MANAGEMENT SYSTEM</h3>
       </a>
     </div>
 

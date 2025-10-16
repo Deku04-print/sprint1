@@ -5,9 +5,9 @@
           <!-- Insert website logo -->
           <img src="images/company-logo.jpg" alt="Website Logo">
           <!-- Display visitor count -->
-          <p>SCHOOL MANAGEMENT SYSTEM</p>
+          <p>SCHOOL MANAGEMENT SYSTEM (SMS)</p>
           <!-- Display time zone -->
-          <p>Q9P3+75H, My Town, My city, My Country </p>
+          <p>Mumbai, My Town, My city, My Country </p>
         </div>
         <div class="col-md-4">
           <p>Time Zone: <?php
@@ -31,7 +31,7 @@
       </div>
       <div class="row mt-4">
         <div class="col-md-12">
-          <p>&copy; <?php echo date('Y'); ?> By <a href="https://www.github.com/ProjectsAndPrograms" target="_blank">ProjectsAndPrograms</a>. All rights reserved.</p>
+          <p>&copy; <?php echo date('Y'); ?> By <a href="https://www.github.com/Deku04-print" target="_blank">H-S-D</a>. All rights reserved.</p>
         </div>
       </div>
     </div>
